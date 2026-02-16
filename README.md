@@ -5,4 +5,4 @@ COURSE: SOFTWARE ENGINEERING
 SEMESTER: 4
 README formatted properly
 
-project status: stable
+project status: in progess
